@@ -1,0 +1,7 @@
+H:\Training\Domain_Training\01-02-2-24\OrderMealAssignment\OrderMealAssignment\bin\Debug\OrderMealAssignment.exe.config
+H:\Training\Domain_Training\01-02-2-24\OrderMealAssignment\OrderMealAssignment\bin\Debug\OrderMealAssignment.exe
+H:\Training\Domain_Training\01-02-2-24\OrderMealAssignment\OrderMealAssignment\bin\Debug\OrderMealAssignment.pdb
+H:\Training\Domain_Training\01-02-2-24\OrderMealAssignment\OrderMealAssignment\obj\Debug\OrderMealAssignment.csproj.AssemblyReference.cache
+H:\Training\Domain_Training\01-02-2-24\OrderMealAssignment\OrderMealAssignment\obj\Debug\OrderMealAssignment.csproj.CoreCompileInputs.cache
+H:\Training\Domain_Training\01-02-2-24\OrderMealAssignment\OrderMealAssignment\obj\Debug\OrderMealAssignment.exe
+H:\Training\Domain_Training\01-02-2-24\OrderMealAssignment\OrderMealAssignment\obj\Debug\OrderMealAssignment.pdb
